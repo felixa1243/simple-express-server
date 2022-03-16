@@ -1,0 +1,14 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "Simple server for experimental",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "experimental"
+  ],
+  "author": "Rajiph iqbal ghandi",
+  "license": "MIT"
+}
