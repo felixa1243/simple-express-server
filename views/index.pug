@@ -1,3 +1,5 @@
 extends layout
 block content
-	h1 #{content}
+	ul
+		each article, i in articles
+			li=article.titles
