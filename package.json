@@ -12,7 +12,7 @@
   "author": "Rajiph iqbal ghandi",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3",
-    "mongose": "^6.2.4"
+    "express": "^4.17.3"
+
   }
 }
